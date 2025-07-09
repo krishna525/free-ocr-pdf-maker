@@ -1,4 +1,4 @@
-# free-ocr-pdf-maker
+# free-pdf-to-txt-maker
 
 Convert scanned PDFs into fully searchable, text-selectable documents using OCR — easily extract text from any PDF file.
 
